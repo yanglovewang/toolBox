@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/argus/argus.iml" filepath="$PROJECT_DIR$/argus/argus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ide-oprate/ide-oprate.iml" filepath="$PROJECT_DIR$/ide-oprate/ide-oprate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/javase.iml" filepath="$PROJECT_DIR$/javase/javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linux-docker/linux-docker.iml" filepath="$PROJECT_DIR$/linux-docker/linux-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middleware/middleware.iml" filepath="$PROJECT_DIR$/middleware/middleware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/mysql.iml" filepath="$PROJECT_DIR$/mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc/springmvc.iml" filepath="$PROJECT_DIR$/springmvc/springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/toolBox.iml" filepath="$PROJECT_DIR$/.idea/toolBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-learnJs/web-learnJs.iml" filepath="$PROJECT_DIR$/web-learnJs/web-learnJs.iml" />
+    </modules>
+  </component>
+</project>

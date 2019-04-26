@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>window</title>
+</head>
+<body>
+<div id="parent">
+    <div id="child1">qxqwx</div>
+    <div id="child2">xqqxqx</div>
+    <div id="child3"></div>
+    <div id="child4"></div>
+</div>
+</body>
+</html>
+
+<script>
+    var parent = document.querySelector("#parent");
+    var firstChild = parent.firstChild
+    var firstElemntChilt = parent.firstElementChild;
+    console.log('firstChild', firstChild);
+    console.log('firstChild', firstElemntChilt);
+    console.log(parent.childNodes)
+    //node 有element_node attr_node text_node 所以node和element是包含关系
+    //移动原来位置到新位置，移动、插入、替换、移除
+</script>
