@@ -1,0 +1,67 @@
+﻿jquery-读取form表单中的所有数据列表
+https://www.cnblogs.com/hwaggLee/p/5877110.html
+
+springboot热部署
+http://www.cnblogs.com/lspz/p/6832358.html
+
+idea server控制台乱码
+https://blog.csdn.net/nan_cheung/article/details/79337273
+
+properties 加载路径
+https://blog.csdn.net/liu911025/article/details/80415001
+
+jrebel配置
+https://github.com/judasn/IntelliJ-IDEA-Tutorial/blob/master/jrebel-setup.md
+jrebel 破解
+https://www.cnblogs.com/wang1024/p/7211194.html
+
+idea调试技巧
+https://blog.csdn.net/qq_27093465/article/details/64124330
+
+springMVC深度探险
+https://www.iteye.com/blogs/subjects/springmvc-explore
+
+测试
+https://blog.csdn.net/xiao_xuwen/article/details/52890730
+
+spring监听器
+http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/
+
+逆向工程
+https://www.cnblogs.com/ningheshutong/p/6376970.html
+
+Apache commons工具类博客
+https://blog.csdn.net/wiker_yong/article/details/23551209
+
+Filter和Interceptor比较
+https://www.cnblogs.com/junzi2099/p/8022058.html
+
+springBoot自定义拦截器
+https://blog.csdn.net/htf2620032/article/details/79305208
+
+mybatis 对象导航问题
+https://www.cnblogs.com/orac/p/6726323.html
+
+快速跳转到xml
+https://blog.csdn.net/tastill/article/details/81333170
+
+mybatis检索大字段效率问题
+https://blog.csdn.net/sinat_31350717/article/details/80574105
+
+idea git问题：
+ 	Could not read from remote repository问题
+	https://blog.csdn.net/steveliu13/article/details/79387475
+	
+	git ignore无效问题
+	https://www.cnblogs.com/sloong/p/5523244.html
+
+数据库索引博文
+http://www.yuanrengu.com/index.php/2017-01-13.html
+
+关于idea配置tomcat的一些原理
+https://blog.csdn.net/z69183787/article/details/78030857
+
+BIO NIO AIO
+https://blog.csdn.net/skiof007/article/details/52873421
+
+spring工厂模式 springMVC责任连模式  数据库优化 数据库事务  sql优化   集合类操作
